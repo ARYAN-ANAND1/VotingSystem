@@ -1,10 +1,10 @@
-# 🗳️ Voting System in C++
+#  Voting System in C++
 
 A simple console-based Voting System implemented in C++, demonstrating core object-oriented programming concepts like classes, file handling, and user interaction.
 
 ---
 
-## 📌 Features
+##  Features
 
 -  Candidate data is loaded from a file (`candidates.txt`)
 -  Each voter can only vote once (based on a unique voter ID)
@@ -14,7 +14,7 @@ A simple console-based Voting System implemented in C++, demonstrating core obje
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 VotingSystem/
 ├── main.cpp # Source code for the voting system
 ├── candidates.txt # Input file with candidate info
@@ -23,7 +23,7 @@ VotingSystem/
 
 ---
 
-## 📄 Sample `candidates.txt` Format
+##  Sample `candidates.txt` Format
 
 Each line contains: <id>|<full name>|<party name>
 
@@ -36,9 +36,9 @@ Example:
 > Make sure the file is placed in the **same directory as `main.cpp`** when running the program.
 ---
 
-## 🧑‍💻 How to Compile and Run
+##  How to Compile and Run
 
-### 🛠️ Using Terminal
+###  Using Terminal
 ```bash
 g++ main.cpp -o voting
 ./voting
@@ -63,7 +63,7 @@ Enter Candidate ID to vote: 101
 Your vote has been recorded.
 
 
-Concepts Used:
+##Concepts Used:
 ---------------------------------------------------
 1.Object-Oriented Programming (OOP)
 2.File I/O using ifstream
