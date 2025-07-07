@@ -1,0 +1,4 @@
+101|Rebel Gandhi|Congress Party
+102|Damodar Godi|BJP
+105|Shivgami Devi|AITC
+
